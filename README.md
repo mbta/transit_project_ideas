@@ -9,13 +9,13 @@ The MBTA’s Customer Technology Department has compiled a list of exciting tran
 
 | Project                    	    | Level        	| Author
 |----------------------------	    |--------------	|---
-| [GTFS Timetable][1]             	| Beginner     	| [Frank LaNasa](https://github.com/fjlanasa) |
-| [Performance Analysis Ideas][2] 	| Advanced     	| 
-| [Personal Alerts][3]            	| Intermediate 	|
-| [Personal Countdown Clock][4]   	| Beginner     	| [Sky Rose](https://github.com/skyqrose)
-| [Show data on a map][7]           | Beginner      | [Sky Rose](https://github.com/skyqrose)
-| [Smart Speaker Skill][5]        	| Intermediate 	|
-| [Image of System Map][6]          | Beginner      | [Frank LaNasa](https://github.com/fjlanasa) |
+| [GTFS Timetable][1]             	| Beginner     	| [Frank LaNasa](https://github.com/fjlanasa)  |
+| [Performance Analysis Ideas][2] 	| Advanced     	| [Eddie Maldonado](https://github.com/lemald) |
+| [Personal Alerts][3]            	| Intermediate 	| [Cora Grant](https://github.com/digitalcora) |
+| [Personal Countdown Clock][4]   	| Beginner     	| [Sky Rose](https://github.com/skyqrose)      |
+| [Show data on a map][7]           | Beginner      | [Sky Rose](https://github.com/skyqrose)      |
+| [Smart Speaker Skill][5]        	| Intermediate 	| [Paul Swartz](https://github.com/paulswartz) |
+| [Image of System Map][6]          | Beginner      | [Frank LaNasa](https://github.com/fjlanasa)  |
 
 [1]: https://github.com/mbta/transit_project_ideas/blob/master/gtfs_timetable.md
 [2]: https://github.com/mbta/transit_project_ideas/blob/master/performance_analysis_ideas.md

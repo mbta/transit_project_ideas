@@ -1,5 +1,8 @@
 # Performance Analysis Project Ideas
 
+## Author
+[Eddie Maldonado](https://github.com/lemald)
+
 ## Description
 We provide some very high-level performance statistics about the MBTA on the mbtabackontrack.com website. Many of these statistics are useful, but top-level “on-time performance” doesn’t capture the entire reality that our riders experience. With some simple querying from the [V3 API](https://api-v3.mbta.com/docs/swagger/index.html) and data storage and lookup, we can do even more in-depth analysis to identify problem spots and potential solutions.
 

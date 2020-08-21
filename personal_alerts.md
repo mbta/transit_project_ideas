@@ -1,5 +1,8 @@
 # Personal Alerts
 
+## Author
+[Cora Grant](https://github.com/digitalcora)
+
 ## Description
 Create a web page that displays any active or upcoming MBTA alerts relevant to the routes and stops you regularly travel on. MVP: Just display alerts by route (e.g. if you regularly use the Red Line, show alerts for all of the Red Line). Similar to https://mbta.com/alerts, provide a convenient overview that allows “drilling down” for more details.
 Resources
