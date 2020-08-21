@@ -15,8 +15,8 @@ The MBTA’s Customer Technology Department has compiled a list of exciting tran
 | [Personal Countdown Clock](4)   	| Beginner     	|
 | [Smart Speaker Skill](5)        	| Intermediate 	|
 
-[1]: ./gtfs_timetable.md
-[2]: ./performance_analysis_ideas.md
-[3]: ./personal_alerts.md
-[4]: ./personal_countdown_clock.md
-[5]: ./smart_speaker_skill.md
+[1]: https://github.com/mbta/transit_project_ideas/blob/master/gtfs_timetable.md
+[2]: https://github.com/mbta/transit_project_ideas/blob/master/performance_analysis_ideas.md
+[3]: https://github.com/mbta/transit_project_ideas/blob/master/personal_alerts.md
+[4]: https://github.com/mbta/transit_project_ideas/blob/master/personal_countdown_clock.md
+[5]: https://github.com/mbta/transit_project_ideas/blob/master/smart_speaker_skill.md
