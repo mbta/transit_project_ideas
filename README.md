@@ -7,16 +7,20 @@ The MBTA’s Customer Technology Department has compiled a list of exciting tran
 
 ## Coding Projects
 
-| Project                    	    | Level        	|
-|----------------------------	    |--------------	|
-| [GTFS Timetable][1]             	| Beginner     	|
-| [Performance Analysis Ideas][2] 	| Advanced     	|
+| Project                    	    | Level        	| Author
+|----------------------------	    |--------------	|---
+| [GTFS Timetable][1]             	| Beginner     	| [Frank LaNasa](https://github.com/fjlanasa) |
+| [Performance Analysis Ideas][2] 	| Advanced     	| 
 | [Personal Alerts][3]            	| Intermediate 	|
-| [Personal Countdown Clock][4]   	| Beginner     	|
+| [Personal Countdown Clock][4]   	| Beginner     	| [Sky Rose](https://github.com/skyqrose)
+| [Show data on a map][7]           | Beginner      | [Sky Rose](https://github.com/skyqrose)
 | [Smart Speaker Skill][5]        	| Intermediate 	|
+| [Image of System Map][6]          | Beginner      | [Frank LaNasa](https://github.com/fjlanasa) |
 
 [1]: https://github.com/mbta/transit_project_ideas/blob/master/gtfs_timetable.md
 [2]: https://github.com/mbta/transit_project_ideas/blob/master/performance_analysis_ideas.md
 [3]: https://github.com/mbta/transit_project_ideas/blob/master/personal_alerts.md
 [4]: https://github.com/mbta/transit_project_ideas/blob/master/personal_countdown_clock.md
 [5]: https://github.com/mbta/transit_project_ideas/blob/master/smart_speaker_skill.md
+[6]: https://github.com/mbta/transit_project_ideas/blob/master/svg_system_map.md
+[7]: https://github.com/mbta/transit_project_ideas/blob/master/show_data_on_a_map.md

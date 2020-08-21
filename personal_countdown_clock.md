@@ -1,5 +1,8 @@
 # Personal Countdown Clock
 
+## Author
+[Sky Rose](https://github.com/skyqrose)
+
 ## Description
 
 Make a website with a countdown clock to show predictions for the route and stop that you use most. If there’s information that would be useful for you (like crowding data, or a commuter rail train number, or how the prediction compares with the scheduled time), include it.
