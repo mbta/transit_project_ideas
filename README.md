@@ -9,11 +9,11 @@ The MBTA’s Customer Technology Department has compiled a list of exciting tran
 
 | Project                    	    | Level        	|
 |----------------------------	    |--------------	|
-| [GTFS Timetable](1)             	| Beginner     	|
-| [Performance Analysis Ideas](2) 	| Advanced     	|
-| [Personal Alerts](3)            	| Intermediate 	|
-| [Personal Countdown Clock](4)   	| Beginner     	|
-| [Smart Speaker Skill](5)        	| Intermediate 	|
+| [GTFS Timetable][1]             	| Beginner     	|
+| [Performance Analysis Ideas][2] 	| Advanced     	|
+| [Personal Alerts][3]            	| Intermediate 	|
+| [Personal Countdown Clock][4]   	| Beginner     	|
+| [Smart Speaker Skill][5]        	| Intermediate 	|
 
 [1]: https://github.com/mbta/transit_project_ideas/blob/master/gtfs_timetable.md
 [2]: https://github.com/mbta/transit_project_ideas/blob/master/performance_analysis_ideas.md
