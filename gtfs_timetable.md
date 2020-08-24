@@ -6,7 +6,7 @@
 ## Description
 Use the MBTA’s [GTFS Feed](https://www.mbta.com/developers/gtfs) to make a website that displays timetables for a route with trips on a given day. You can use as inspiration the commuter rail timetables displayed on [mbta.com](https://www.mbta.com/schedules/CR-Fairmount/timetable).
 
-Image of Timetable
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ## Data Sources
 The [MBTA’s GTFS](https://github.com/mbta/gtfs-documentation/blob/master/reference/gtfs.md) Feed consists of a series of [text files in a standard format](https://developers.google.com/transit/gtfs/reference) that represent the system’s static schedule (along with other geographic information). For this project, the files of interest are:
