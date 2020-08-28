@@ -9,7 +9,7 @@ With more homes having a smart speaker, people are accustomed to asking the spea
 
 ## Data Sources
 
-The MBTA's [V3 API](https://api-v3.mbta.com/docs/swagger/index.html) provides the relevant data:
+The MBTA's [V3 API](https://api-v3.mbta.com/) provides the relevant data:
 Predictions for upcoming vehicles can be queried around a location (given the latitude/longitude)
 Static information about the stop and route are available through the Stops and Routes endpoints 
 
