@@ -11,7 +11,7 @@ Scalable Vector Graphics (SVG) is a markup language for describing two-dimension
 
 ## Data Sources
 
-- The MBTA’s [V3 API](https://api-v3.mbta.com/) provides endpoints to fetch information about [routes](https://api-v3.mbta.com/docs/swagger/index.html#/Route/ApiWeb_RouteController_index) and route [shapes](https://api-v3.mbta.com/docs/swagger/index.html#/Shape/ApiWeb_ShapeController_index). Note that the shapes endpoint returns encoded [polylines](https://developers.google.com/maps/documentation/utilities/polylinealgorithm), so you’ll need to use some tool to decode them (one example here).
+- The MBTA’s [V3 API](https://api-v3.mbta.com/) provides endpoints to fetch information about [routes](https://api-v3.mbta.com/docs/swagger/index.html#/Route/ApiWeb_RouteController_index) and route [shapes](https://api-v3.mbta.com/docs/swagger/index.html#/Shape/ApiWeb_ShapeController_index). Note that the shapes endpoint returns encoded [polylines](https://developers.google.com/maps/documentation/utilities/polylinealgorithm), so you’ll need to use some tool to decode them (one example [here](https://github.com/mapbox/polyline)).
 - The MBTA’s [GTFS Feed](https://github.com/mbta/gtfs-documentation/blob/master/reference/gtfs.md) also provides equivalent information in the form of text files:
     - [routes.txt](https://developers.google.com/transit/gtfs/reference#routestxt)
     - [shapes.txt](https://developers.google.com/transit/gtfs/reference#shapestxt)
