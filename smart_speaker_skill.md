@@ -5,7 +5,7 @@
 
 ## Description
 
-With more homes having a smart speaker, people are being accustomed to being able to ask the speaker questions such as "how many ounces is 3 tablespoons" or "is it going to rain today". To make public transit part of this ecosystem, it would be valuable to provide a speaker skill to answer questions like "when is the next 39 bus" with a human description of the prediction arrival times: "the next inbound 39 buses arrive in 8 minutes and 20 minutes. the next outbound buses arrive in 6 minutes and 15 minutes."
+With more homes having a smart speaker, people are accustomed to asking the speaker questions such as "how many ounces are three tablespoons" or "is it going to rain today." To make public transit part of this ecosystem, it would be valuable to provide a speaker skill to answer questions like "when is the next 39 bus" with a human description of the prediction arrival times: "the next inbound 39 buses arrive in 8 minutes and 20 minutes. the next outbound buses arrive in 6 minutes and 15 minutes."
 
 ## Data Sources
 
