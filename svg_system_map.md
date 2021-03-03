@@ -7,7 +7,7 @@
 
 Scalable Vector Graphics (SVG) is a markup language for describing two-dimensional vector graphics (essentially computer graphics defined by connected points on a plane). SVG underlies many popular data visualization libraries like [D3js](https://d3js.org/), but can be used on it’s own to [make simple charts and graphs](https://css-tricks.com/how-to-make-charts-with-svg/). Using vanilla SVGs and HTML, build a simple two-dimensional visualization of one or more of our routes, similar to the [MBTA’s rapid transit map](https://cdn.mbta.com/sites/default/files/2020-05/subway-map-june2020-v34a-GLX-shuttle.pdf).
 
-![System Map](https://ctd-static-content.s3.amazonaws.com/github-images/system-map.png)
+![System Map](/images/system-map.png)
 
 ## Data Sources
 
